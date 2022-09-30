@@ -3,9 +3,11 @@
 ## BTC and ETH Cryptocurrency vs APPL and TSLA Stock Proposal
 ### We are going to analyze cryptocurrency and stock by seperating into 3 sections.
 
-    1.  Litecoin and Chainlink Portfolio - data from KPI
-    2.  Apple and Tesla Portfolio - data from csv file 
-    3.  Cryptocurrency and stock combined portfolio
+   **1.  Litecoin and Chainlink Portfolio - data from KPI**
+
+   **2.  Apple and Tesla Portfolio - data from csv file**
+
+   **3.  Cryptocurrency and stock combined portfolio**
 
 For section 1 cryptocurrency, we will analyze Litecoin and Chainlink daily closed price for X years from xxxx to xxxx with below concept. From the output we get, we can summarize the general performace for each cryptocurrency and make a comparison.
 
