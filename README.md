@@ -1,13 +1,15 @@
 # Crypto-Tickers-Project-1
 
-## BTC and ETH Cryptocurrency vs APPL and TSLA Stock Proposal
+## Litecoin and Chainlink Cryptocurrency vs APPL and TSLA Stock Proposal
 ### We are going to analyze cryptocurrency and stock by seperating into 3 sections.
 
-   **1.  Litecoin and Chainlink Portfolio - data from KPI**
+   **1.  Litecoin and Chainlink Portfolio - data from API**
 
    **2.  Apple and Tesla Portfolio - data from csv file**
 
    **3.  Cryptocurrency and stock combined portfolio**
+
+Add new library dash
 
 For section 1 cryptocurrency, we will analyze Litecoin and Chainlink daily closed price for X years from xxxx to xxxx with below concept. From the output we get, we can summarize the general performace for each cryptocurrency and make a comparison.
 
@@ -17,6 +19,7 @@ For section 1 cryptocurrency, we will analyze Litecoin and Chainlink daily close
     - Ploting both Litecoin and Chainlink into one graph by sharpe ratio for comparison.
 
 For section 2 stock, we will analyze Apple and Tesla stock performance by using Morte Carlo Stimulation to predict the future performance by using x years dataframe.
+
     - Beta Calculation
     - Weighted 2 stocks by using Morte Carlo Simulation to forcast 3 years returns
     - Calculatate cummulative return 
