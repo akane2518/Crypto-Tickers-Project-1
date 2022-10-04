@@ -17,7 +17,7 @@ For section 1 cryptocurrency, we will analyze Litecoin and Chainlink daily close
     - Ploting both Litecoin and Chainlink into one graph by sharpe ratio for comparison.
 
 For section 2 stock, we will analyze Apple and Tesla stock performance by using Morte Carlo Stimulation to predict the future performance by using x years dataframe.
-
+    - Beta Calculation
     - Weighted 2 stocks by using Morte Carlo Simulation to forcast 3 years returns
     - Calculatate cummulative return 
     - Plot simulation outcomes with normal distribution to see all possible outcome by percentage
@@ -27,6 +27,7 @@ For section 3, we will combine cryptocurrency and stock to one portfolio. From t
 
     - Define the numbers of shares to invest for each single portfolio.
     - Overview the portfolio composition with bar chart
+    - Correlation of portfolio return
     - 5 years cumulative returns for this portfolio
     - Plot 5 years cumulative returns to see overall performances
 
