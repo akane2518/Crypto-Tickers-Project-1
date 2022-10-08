@@ -9,29 +9,29 @@
 
    **3.  Cryptocurrency and stock combined portfolio**
 
-Add new library dash
+We will add new librart streamlit
 
-For section 1 cryptocurrency, we will analyze Litecoin and Chainlink daily closed price for X years from xxxx to xxxx with below concept. From the output we get, we can summarize the general performace for each cryptocurrency and make a comparison.
+For section 1 cryptocurrency, we will analyze Litecoin and Chainlink daily closed price for 5 years from 2017 to 2022 with below concept. From the output we get, we can summarize the general performace for each cryptocurrency and make a comparison.
 
+    - 5 years cryptocurrency price performance
     - What are the daily return, standard deviation and covariance/variance? 
-    - Calculate sharpe ratio for risk analysis.
-    - What is the correlation between Litecoin and Chainlink?
-    - Ploting both Litecoin and Chainlink into one graph by sharpe ratio for comparison.
+    - Calculate annual sharpe ratio for cumulative return
+    - Graph cumulative return performance
+    - Plot correlation between Litecoin and Chainlink?
+    - Plot investment outcome for cryptocurrency portfolio
 
-For section 2 stock, we will analyze Apple and Tesla stock performance by using Morte Carlo Stimulation to predict the future performance by using x years dataframe.
+For section 2 stock, we will analyze Apple and Tesla stock performance by using Morte Carlo Stimulation to forcast 3 years performance.
 
-    - Beta Calculation
-    - Weighted 2 stocks by using Morte Carlo Simulation to forcast 3 years returns
-    - Calculatate cummulative return 
-    - Plot simulation outcomes with normal distribution to see all possible outcome by percentage
+    - 5 years stock closed price performance
+    - Morte Carlo Simulation to forcast 3 years returns
+    - Summarize statistics for simulated daily return
+    - Plot simulation 3 years profit for each stock
     - Use confidence intervals to list the range of possible outcomes.
 
 For section 3, we will combine cryptocurrency and stock to one portfolio. From there, we will analyze to see if this is a good portfolio to invest.
 
-    - Define the numbers of shares to invest for each single portfolio.
-    - Overview the portfolio composition with bar chart
-    - Correlation of portfolio return
+    - Overview the portfolio closed price performance  
+    - Set weights for each single portfolio
     - 5 years cumulative returns for this portfolio
     - Plot 5 years cumulative returns to see overall performances
 
-From above listed analysis, we will make a summary about this investment and provide some suggestions or strategies.
