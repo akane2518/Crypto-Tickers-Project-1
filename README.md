@@ -5,7 +5,7 @@
 
    **1.  Litecoin and Chainlink Portfolio - data from API**
 
-   **2.  Apple and Tesla Portfolio - data from csv file**
+   **2.  Apple and Tesla Portfolio - data from Yahoo Fianace**
 
    **3.  Cryptocurrency and stock combined portfolio**
 
