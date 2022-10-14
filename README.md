@@ -10,9 +10,9 @@
    **3.  Cryptocurrency and stock combined portfolio**
    
    **4.  Plot a line plot in Matplotlib - one of the most basic types of plots. Line Plots display numerical values on one axis, and  
-         categorical values on the other
+         categorical values on the other**
          
-   **5.   We will add new library Yahoo Finance import yfinance as yf
+   **5.  We will add new library Yahoo Finance import yfinance as yf**
 
 For section 1 cryptocurrency, we will analyze Litecoin and Chainlink daily closed price for 5 years from 2017 to 2022 with below concept. From the output we get, we can summarize the general performace for each cryptocurrency and make a comparison.
 
